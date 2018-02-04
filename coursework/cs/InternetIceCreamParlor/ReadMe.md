@@ -29,6 +29,7 @@ Note: These are not full screen images. Most have a sliver of the
 [banner graphic](InternetIceCreamParlor/InternetIceCreamParlor/img/neonicecream.png)
 
 When first launching, or arriving, at the web page.
+
 ![Initial screen with no logged in user](screenshots/first.JPG)
 
 A user logged in. Note the switch from login box to logout link.<br/>
