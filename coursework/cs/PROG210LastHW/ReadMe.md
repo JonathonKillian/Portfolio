@@ -31,11 +31,18 @@ in the cloud (Azure).
   me to modify the values outside the program and continue testing without restarting.
 
 ### Screen shots
-![The program was just started; customers and products are loaded from the two databases](screenshots\no buy.JPG)
-![A customer and product are selected, enabling the "Buy" button](screenshots\buy enabled.JPG)
-![Purchase completed successfully per the status message](screenshots\buy succeeded.JPG)
-![Customer's attempt to buy a product without enough funds is confirmed by the status message](screenshots\not enough funds.JPG)
-![A customer snagged the last box of Frosted Flakes in inventory](bought last frosted flakes.JPG)
-![A status message informing that a product out of stock cannot be sold](screenshots\out of stock.JPG)
-![A customer without funds unsuccessfully attempts to buy a product](screenshots\out of funds.JPG)
-![In the rare chance a customer without funds tries to buy a product without stock generates two staus messages](screenshots\two error messages.JPG)
+The program was just started. Customers and products are loaded from the two databases. No selections are made resulting
+in the "Buy" button being disabled.
+![The buy button is disabled due to no selections](screenshots/disabled.JPG)
+A customer and product are selected, enabling the "Buy" button.
+![The buy button is enabled due to selections made](screenshots/enabled.JPG)
+A purchase is successful.
+![Status message showing completed purchase](screenshots/succeeded.JPG)
+A customer attempted to buy cereal without enough funds
+![Status message showing non-sufficient funds](screenshots/insufficient.JPG)
+A customer bought the last box of Frosted Flakes
+![Status message showing completed purchase and Frosted Flakes inventory shows zero](last.JPG)
+A customer attempts to purchase an out-of-stock cereal.
+![Status message reporting the ordered product out of stock](screenshots/out.JPG)
+Both error messages can be triggered together.
+![Status message shows both insufficient funds and out-of-stock](screenshots/errors.JPG)

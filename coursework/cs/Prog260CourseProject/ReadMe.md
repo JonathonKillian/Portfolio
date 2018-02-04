@@ -39,14 +39,25 @@ There are no external dependencies; it is compilable and executable as-is using 
   the two lines of code in place) to try out the extension feature.
 
 ### Screen shots
-![When the application starts, the user is presented with blank fields ready for a book to be added](screenshots\first.JPG)
-![An example of the cursor being returned to the ISBN field currently holding an invalid (blank) value](screenshots\empty ISBN.JPG)
-![A second example of the cursor being returned to the ISBN field currently holding an invalid (non-numeric)value](screenshots\invalid ISBN.JPG)
-![The fields have been populated with valid values for a new book, enabling the add button](screenshots\adding.JPG)
-![With a book added, the "Get all ISBN" button enables](screenshots\added.JPG)
-![With books added, the find and remove buttons enable with just a positive integer typed into the ISBN field](screenshots\find or removed.JPG)
-![User supplied an existing book's ISBN and clicked "Find Book By ISBN"](screenshots\found.JPG)
-![User supplied an existing book's ISBN and clicked "Remove Book"](screenshots\removed.JPG)
-![User tried to remove a non-existing book](screenshots\not removable.JPG)
-![User tried finding a non-existing ISBN and informed it was not found](screenshots\not found.JPG)
-![User tried clicking a removed book's ISBN from the listbox](screenshots\removed ISBN clicked.JPG)
+The application is launched.
+![A window showing blank fields and disabled buttons](screenshots/first.JPG)
+User attempted to move away from the ISBN without entering a value.
+![An empty ISBN textbox and a red error status message](screenshots/empty.JPG)
+![A non-numeric ISBN and the same red error status message](screenshots/invalid.JPG)
+User has filled in all the textboxes enabling the "Add New Book" button.
+![Textboxes are filled and the "Add New Book" button is enabled](screenshots/adding.JPG)
+With a book added, the "Get all ISBN" button is enabled.
+![The "Get all ISBN" button is enabled; the add button is again disabled](screenshots/added.JPG)
+With at least a book added, the find and remove buttons enable when a validated ISBN is entered.
+![ISBN is filled in enabling "Find Book By ISBN" and "Remove Book" buttons](screenshots/findRemoved.JPG)
+The user clicked on the "Find Book by ISBN" button, the book was successfully found and the fields filled with its
+information
+![Book with ISBN was found, filling in the textboxes](screenshots/found.JPG)
+A book was removed after the user typed in its ISBN and clicked the "Remove book" button .
+![Status message reporting a book removed](screenshots/removed.JPG)
+The user attempted to remove a book not found in the library.
+![Status message reporting inability to find and remove a non-existing book](screenshots/unremovable.JPG)
+User tried to find a non-existing book (ISBN key not found)
+![Status message saying unable to find non-existing ISBN](screenshots/unfound.JPG)
+User deleted a book, then before updating the list, clicked on the deleted book's ISBN
+![User tried clicking a removed book's ISBN from the listbox](screenshots/unISBN.JPG)

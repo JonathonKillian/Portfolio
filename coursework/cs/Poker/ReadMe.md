@@ -30,9 +30,13 @@ There are no external dependencies; it is compilable and executable as is using 
   Pressing Control-C or simply closing the command window does work.
 
 ### Screen shots
-While running in a console window, coloring is used; pictures are provided instead of copy and pasting.
-![Introduction screen](screenshots\Introduction.JPG)
-![A hand being played](screenshots\first hand.JPG)
-![Player lost a hand](screenshots\Hand lost.JPG)
-![Player won a hand](screenshots\Hand won.JPG)
-![Player is out of funds; game over](screenshots\Hand lost.JPG)
+Introduction screen.
+![Introduction screen](screenshots/Introduction.JPG)
+Player is replacing a card.
+![Player is replacing a card](screenshots/hand.JPG)
+Player lost a hand.
+![Player lost a hand](screenshots/lost.JPG)
+Player won a hand.
+![Player won a hand](screenshots/won.JPG)
+Game over.
+![Player ran out of funds; the game is over](screenshots/zero.JPG)
