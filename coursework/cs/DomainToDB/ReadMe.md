@@ -27,10 +27,10 @@ This assignment covered Entity Framework and its ability to generate the databas
 - No data is pre-loaded by the SQL scripts; user will be presented with column headers only until an employee is added.
 
 ## Screen shots
-![Adding an employee with department ready to be selected; "Add Employees" button still disabled](\screenshots\partial.JPG)
-![Adding an employee with "Add Employees" button enabled](\screenshots\adding.JPG)
-![Newly added employee now appearing in the employee list, or grid](screenshots\added.JPG)
-![Deleting an employee requires a confirmation. You can still see the highlighted employee and the enabled button](screenshots\deleting.JPG)
-![Age of zero leaves button disabled](screenshots\zero.JPG)
-![Non-numeric age leaves button disabled](screenshots\unknown.JPG)
-![Non-alphabetic characters in name fields is valid, along with max integer for age](nonalpha.JPG)
+![Adding an employee with department ready to be selected; "Add Employees" button still disabled](screenshots/partial.JPG)
+![Adding an employee with "Add Employees" button enabled](screenshots/adding.JPG)
+![Newly added employee now appearing in the employee list, or grid](screenshots/added.JPG)
+![Deleting an employee requires a confirmation. You can still see the highlighted employee and the enabled button](screenshots/deleting.JPG)
+![Age of zero leaves button disabled](screenshots/zero.JPG)
+![Non-numeric age leaves button disabled](screenshots/unknown.JPG)
+![Non-alphabetic characters in name fields is valid, along with max integer for age](screenshots/nonalpha.JPG)
