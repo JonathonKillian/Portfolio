@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Poker\Poker.csproj", "{5857F350-95B9-4BEB-B799-94B4B9609D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLibrary", "CardLibrary\CardLibrary.csproj", "{F414BC11-E375-439E-9767-10A7293944DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5857F350-95B9-4BEB-B799-94B4B9609D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5857F350-95B9-4BEB-B799-94B4B9609D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5857F350-95B9-4BEB-B799-94B4B9609D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5857F350-95B9-4BEB-B799-94B4B9609D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F414BC11-E375-439E-9767-10A7293944DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F414BC11-E375-439E-9767-10A7293944DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F414BC11-E375-439E-9767-10A7293944DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F414BC11-E375-439E-9767-10A7293944DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

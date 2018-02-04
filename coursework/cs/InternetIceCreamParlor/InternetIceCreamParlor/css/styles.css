@@ -1,0 +1,114 @@
+﻿html {
+	/*height: 100%;*/
+	min-height: 100%;
+	position: relative;
+}
+
+body {
+	width: 60em;
+	margin: 0 auto 2em auto;
+	background-color: #F7EBD3;
+	overflow: auto;
+}
+
+label[for], .query {
+	width: 5em;
+	clear: left;
+	float: left;
+}
+
+#frmProduct label[for] {
+	width: 6.25em;
+	clear: left;
+	float: left;
+}
+
+nav {
+	width: 7em;
+	float: left;
+	margin-right: .5em;
+}
+
+div+input[type="submit"] {
+	clear: both;
+	margin-top: 1em;
+}
+
+main {
+	float: left;
+}
+
+table {
+	border-collapse: collapse;
+	margin-top: .5em;
+}
+
+th {
+	background-color: deeppink;
+	color: ivory;
+	border: .0625em solid ivory;
+}
+
+td {
+	background-color: ivory;
+	border: .0625em solid brown;
+	margin: 0;
+	width: 12em;
+	padding: .125em .25em .125em .5em;
+}
+
+footer {
+	clear: both;
+	width: 100%;
+	height: 1.5em;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	border-radius: .75em;
+	background-color: black;
+	color: #F7EBD3;
+	text-align: center;
+}
+
+#banner {
+	margin: 0 auto .5em auto;
+}
+
+#frmLogin {
+	width: 7em;
+	overflow: auto;
+	clear: both;
+}
+
+#frmLogin input, #fstBox input {
+	width: 5.5em;
+	margin: .25em .5em;
+	padding: 0.15625em;
+}
+
+#fstBox {
+	clear: both;
+	width: 6em;
+	padding: .375em;
+	margin: 0;
+	border-radius: .75em;
+}
+
+#btnLogin {
+	width: 6em;
+	margin: .25em .5em;
+}
+
+
+.newline {
+	clear: both;
+}
+
+.dropem {
+	margin-bottom: 1em;
+}
+
+.fillin {
+	font-size: 105%;
+	font-weight: bold;
+}

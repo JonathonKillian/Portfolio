@@ -1,0 +1,13 @@
+﻿body {
+	background-color: #F7EBD3;
+}
+
+label[for], .query {
+	width: 5em;
+	clear: left;
+	float: left;
+}
+
+div {
+	margin-bottom: 1em;
+}
