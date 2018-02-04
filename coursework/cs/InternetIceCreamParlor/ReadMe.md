@@ -30,7 +30,7 @@ Note: These are not full screen images. Most have a sliver of the
 
 When first launching, or arriving, at the web page.
 
-![Initial screen with no logged in user](screenshots/first.JPG)
+![Initial screen with no logged in user](screenshots/first.jpg)
 
 A user logged in. Note the switch from login box to logout link.<br/>
 ![A logged-in user is greeted. Login box is switched to logout link](screenshots/login.JPG)
