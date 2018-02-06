@@ -30,7 +30,7 @@ This assignment covered Entity Framework and its ability to generate the databas
 
 A user is almost finished entering in the data for a new employee; they just have to select the proper department.
 This is also an example of showing the validation, the "Add Employee" button remains disable at this point.<br/>
-![Adding an employee with department ready to be selected; "Add Employees" button still disabled](screenshots/partial.JPG)
+![Adding an employee with department ready to be selected; "Add Employees" button still disabled](screenshots/department.JPG)
 
 The employee's department is now selected. The "Add Employee" button is now enabled.<br/>
 ![A new employee is ready to be added to the database using the now-enabled "Add Employees" button](screenshots/adding.JPG)
