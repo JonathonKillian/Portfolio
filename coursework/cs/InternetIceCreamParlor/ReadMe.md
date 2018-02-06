@@ -48,7 +48,7 @@ The products page, with more products already added, showing the humorous &quot;
 
 A user purchased diamond ice cream (the most expensive ice cream).<br/>
 ![Purchase confirmation screen showing a receipt in letter form](screenshots/Purchased.JPG)
-<hr/>
+
 The next four images show the sign up process. Basically, a user fills out the information, is given a confirmation screen,
 they are provided the means to update and then confirm the update. As noted above these screens do not bear the banner graphic.<br/>
 ![Sign up page with a user's information typed in.](screenshots/Signup1.JPG)
