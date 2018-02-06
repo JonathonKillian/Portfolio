@@ -27,10 +27,17 @@ This assignment covered Entity Framework and its ability to generate the databas
 - No data is pre-loaded by the SQL scripts; user will be presented with column headers only until an employee is added.
 
 ## Screen shots
+
+A user is almost finished entering in the data for a new employee; they just have to select the proper department.
+This is also an example of showing the validation, the "Add Employee" button remains disable at this point.<br/>
 ![Adding an employee with department ready to be selected; "Add Employees" button still disabled](screenshots/partial.JPG)
-![Adding an employee with "Add Employees" button enabled](screenshots/adding.JPG)
+
+The employee's department is now selected. The "Add Employee" button is now enabled.<br/>
+![A new employee is ready to be added to the database using the now-enabled "Add Employees" button](screenshots/adding.JPG)
+
+"Add Employee" has been clicked and the list of employees was updated with the new employee.<br/>
 ![Newly added employee now appearing in the employee list, or grid](screenshots/added.JPG)
-![Deleting an employee requires a confirmation. You can still see the highlighted employee and the enabled button](screenshots/deleting.JPG)
-![Age of zero leaves button disabled](screenshots/zero.JPG)
-![Non-numeric age leaves button disabled](screenshots/unknown.JPG)
-![Non-alphabetic characters in name fields is valid, along with max integer for age](screenshots/nonalpha.JPG)
+
+An employee decided to leave company. A user selected their record and clicked the "Delete Employee" button. The program
+is asking confirmation.  You can still see the highlighted employee and the enabled button.<br/>
+![Deleting an employee requires a confirmation](screenshots/deleting.JPG)

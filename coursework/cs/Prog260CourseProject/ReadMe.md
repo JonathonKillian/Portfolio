@@ -39,25 +39,37 @@ There are no external dependencies; it is compilable and executable as-is using 
   the two lines of code in place) to try out the extension feature.
 
 ### Screen shots
-The application is launched.
+
+The application is launched.<br/>
 ![A window showing blank fields and disabled buttons](screenshots/first.JPG)
-User attempted to move away from the ISBN without entering a value.
+
+User attempted to move away from the ISBN without entering a value.<br/>
 ![An empty ISBN textbox and a red error status message](screenshots/empty.JPG)
+
+A user entered a non-numeric entry and clicked away. Only to be returned back to ISBN with a red status message.<br/>
 ![A non-numeric ISBN and the same red error status message](screenshots/invalid.JPG)
-User has filled in all the textboxes enabling the "Add New Book" button.
+
+User has filled in all the textboxes enabling the "Add New Book" button.<br/>
 ![Textboxes are filled and the "Add New Book" button is enabled](screenshots/adding.JPG)
-With a book added, the "Get all ISBN" button is enabled.
+
+With a book added, the "Get all ISBN" button is enabled.<br/>
 ![The "Get all ISBN" button is enabled; the add button is again disabled](screenshots/added.JPG)
-With at least a book added, the find and remove buttons enable when a validated ISBN is entered.
+
+With at least a book added, the find and remove buttons enable when a validated ISBN is entered.<br/>
 ![ISBN is filled in enabling "Find Book By ISBN" and "Remove Book" buttons](screenshots/findRemoved.JPG)
+
 The user clicked on the "Find Book by ISBN" button, the book was successfully found and the fields filled with its
-information
+information.<br/>
 ![Book with ISBN was found, filling in the textboxes](screenshots/found.JPG)
-A book was removed after the user typed in its ISBN and clicked the "Remove book" button .
+
+A book was removed after the user typed in its ISBN and clicked the "Remove book" button.<br/>
 ![Status message reporting a book removed](screenshots/removed.JPG)
-The user attempted to remove a book not found in the library.
+
+The user attempted to remove a book not found in the library.<br/>
 ![Status message reporting inability to find and remove a non-existing book](screenshots/unremovable.JPG)
-User tried to find a non-existing book (ISBN key not found)
+
+User tried to find a non-existing book (ISBN key not found).<br/>
 ![Status message saying unable to find non-existing ISBN](screenshots/unfound.JPG)
-User deleted a book, then before updating the list, clicked on the deleted book's ISBN
+
+User deleted a book, then before updating the list, clicked on the deleted book's ISBN.<br/>
 ![User tried clicking a removed book's ISBN from the listbox](screenshots/unISBN.JPG)

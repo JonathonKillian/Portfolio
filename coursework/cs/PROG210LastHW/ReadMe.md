@@ -31,18 +31,25 @@ in the cloud (Azure).
   me to modify the values outside the program and continue testing without restarting.
 
 ### Screen shots
+
 The program was just started. Customers and products are loaded from the two databases. No selections are made resulting
-in the "Buy" button being disabled.
+in the "Buy" button being disabled.<br/>
 ![The buy button is disabled due to no selections](screenshots/disabled.JPG)
-A customer and product are selected, enabling the "Buy" button.
+
+A customer and product are selected, enabling the "Buy" button.<br/>
 ![The buy button is enabled due to selections made](screenshots/enabled.JPG)
-A purchase is successful.
+
+A purchase is successful.<br/>
 ![Status message showing completed purchase](screenshots/succeeded.JPG)
-A customer attempted to buy cereal without enough funds
+
+A customer attempted to buy cereal without enough funds.<br/>
 ![Status message showing non-sufficient funds](screenshots/insufficient.JPG)
-A customer bought the last box of Frosted Flakes
+
+A customer bought the last box of Frosted Flakes.<br/>
 ![Status message showing completed purchase and Frosted Flakes inventory shows zero](last.JPG)
-A customer attempts to purchase an out-of-stock cereal.
+
+A customer attempts to purchase an out-of-stock cereal.<br/>
 ![Status message reporting the ordered product out of stock](screenshots/out.JPG)
-Both error messages can be triggered together.
+
+Both error messages can be triggered together.<br/>
 ![Status message shows both insufficient funds and out-of-stock](screenshots/errors.JPG)

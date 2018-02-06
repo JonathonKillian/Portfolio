@@ -30,13 +30,18 @@ There are no external dependencies; it is compilable and executable as is using 
   Pressing Control-C or simply closing the command window does work.
 
 ### Screen shots
-Introduction screen.
+
+Introduction screen.<br/>
 ![Introduction screen](screenshots/Introduction.JPG)
-Player is replacing a card.
+
+Player is replacing a card.<br/>
 ![Player is replacing a card](screenshots/hand.JPG)
-Player lost a hand.
+
+Player lost a hand.<br/>
 ![Player lost a hand](screenshots/lost.JPG)
-Player won a hand.
+
+Player won a hand.<br/>
 ![Player won a hand](screenshots/won.JPG)
-Game over.
+
+Game over.<br/>
 ![Player ran out of funds; the game is over](screenshots/zero.JPG)
