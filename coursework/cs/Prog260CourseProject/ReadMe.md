@@ -56,7 +56,7 @@ With a book added, the "Get all ISBN" button is enabled.<br/>
 ![The "Get all ISBN" button is enabled; the add button is again disabled](screenshots/added.JPG)
 
 With at least a book added, the find and remove buttons enable when a validated ISBN is entered.<br/>
-![ISBN is filled in enabling "Find Book By ISBN" and "Remove Book" buttons](screenshots/findRemoved.JPG)
+![ISBN is filled in enabling "Find Book By ISBN" and "Remove Book" buttons](screenshots/findRemove.JPG)
 
 The user clicked on the "Find Book by ISBN" button, the book was successfully found and the fields filled with its
 information.<br/>
