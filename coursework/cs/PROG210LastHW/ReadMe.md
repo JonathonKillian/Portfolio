@@ -46,7 +46,7 @@ A customer attempted to buy cereal without enough funds.<br/>
 ![Status message showing non-sufficient funds](screenshots/insufficient.JPG)
 
 A customer bought the last box of Frosted Flakes.<br/>
-![Status message showing completed purchase and Frosted Flakes inventory shows zero](last.JPG)
+![Status message showing completed purchase and Frosted Flakes inventory shows zero](screenshots/last.JPG)
 
 A customer attempts to purchase an out-of-stock cereal.<br/>
 ![Status message reporting the ordered product out of stock](screenshots/out.JPG)
