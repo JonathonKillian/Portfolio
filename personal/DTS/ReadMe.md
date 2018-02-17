@@ -1,17 +1,16 @@
 # DTS
 
 ## What does this program do?
-DTS is a logger; it writes what is typed on the command line after it (its parameters) to a file.
+DTS is a logger; it writes everything following the exe name to a log file with a date/time stamp.
 
-Its name is derived from prepending the written line with a _D_ate/_T_ime _S_tamp.
-
-Without a line, it displays the entire log file to screen
+Without parameters, the log file is displayed to screen.
 
 ## Dependencies
 There are no external dependencies; just the standard libraries.
 
 ## Notes
 - At the time I wrote this program, I thought it easiest enough to use an environment variable.
+- Its name is derived from prepending the written line with a _D_ate/_T_ime _S_tamp.
 - The program will complain if the environment variable is not set or the log file cannot be opened
 - The program will not complain if told to read from a zero-byte file. The empty output would show me enough.
 - Another use for the environment variable was to open the log file in notepad; there were times I did this to log

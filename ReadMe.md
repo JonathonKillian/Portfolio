@@ -9,7 +9,7 @@ I can code in C++, C#, HTML/CSS, Javascript, SQL (queries, stored procedures and
 
 I have dabbled in Python, Perl 5.x, and Linux Bash scripting, and I have samplied multiple other languages.
 
-I first learned to program in BASIC on an Apple ][+ back in 1981, 5th grage.
+I first learned to program in BASIC on an Apple ][+ back in 1981, 5th grade.
 
 I have previously been taught machine language, assembly, C, and COBOL (back in 1988-1989).
 
